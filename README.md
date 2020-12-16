@@ -27,3 +27,6 @@
 - 💬  Ask me about:
   - Specific applications I've made so far at Turing.
   - Teaching/Education in any place except a classroom! 😃 
+  
+  
+  ![Mountain](https://media.giphy.com/media/2csuIJj6TmuKA/giphy.gif)
