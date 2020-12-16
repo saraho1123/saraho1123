@@ -7,11 +7,11 @@
 - 🔭 I’m currently in a fully immersive program at [Turing School of Softwared and Design](https://frontend.turing.io/), slotted to graduate in March 2021.
 - 🌱 My studies are focused in `React`, `JavaScript`, `Node JS`, `TypeScript` `Test Driven Develepment`, and `SASS`.
 
-- 🧳 My background is in education, but not alwasy in traditional ways:
+- 🧳 My background is in education, but not always in the traditional ways:
   - Mountaineering/Climbing Instructor.
   - Teaching English in Asia and South East Asia.
   - Teaching at an alternative middle/highschool for at-risk youth.
-  - I've also taught preschool and kindergarten.
+  - I've also taught preschool and kindergarten, middle school and high school.
   
 - ⚡ What I do besides code:
   - camping/hiking/backpacking
