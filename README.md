@@ -14,9 +14,10 @@
   - I've also taught preschool and kindergarten, middle school and high school.
   
 - ⚡ What I do besides code:
-  - camping/hiking/backpacking
-  - rock climbing
-  - road trips
+  - camping/hiking/backpacking 🥾 ⛺️
+  - rock climbing 🧗‍♀️
+  - road trips 🏞
+  - travel (hopefully again after we get through COVID!) 🗺
 
 
 - 📫 How to reach me: 
