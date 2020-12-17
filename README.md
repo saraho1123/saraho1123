@@ -14,10 +14,10 @@
   - I've also taught preschool and K-12.
   
 - ⚡  What I do besides code:
-  - camping/hiking/backpacking 🥾 ⛺️
-  - rock climbing 🧗‍♀️
-  - road trips 🏞
-  - travel (hopefully again after we get through COVID!) 🗺
+  - Camping/hiking/backpacking 🥾 ⛺️
+  - Rock climbing 🧗‍♀️
+  - Road trips 🏞
+  - Travel (hopefully again after we get through COVID!) 🗺
 
 
 - 📫  How to reach me: 
@@ -26,6 +26,6 @@
   
 - 💬  Ask me about:
   - Specific applications I've made at Turing.
-  - being an educator, especially outside of a classroom! 😃 
+  - Being an educator, especially outside of a classroom! 😃 
   
   ![Mountain](https://media.giphy.com/media/2csuIJj6TmuKA/giphy.gif)
