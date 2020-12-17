@@ -1,6 +1,6 @@
-## Hi there! I'm Sarah Osgood, 
+## Hi there! I'm Sarah Osgood.
 
-### a frontend engineer currently residing in Fort Collins, Colorado.
+### Frontend engineer currently residing in Fort Collins, Colorado.
 
 😎
 
