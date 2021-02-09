@@ -23,6 +23,7 @@
 - 📫  How to reach me: 
   - sarahjs117@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/sarahosgood/)
+  - [Portfolio](https://alumni.turing.io/alumni/sarah-osgood)
   
 - 💬  Ask me about:
   - Specific applications I've made at Turing.
