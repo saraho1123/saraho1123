@@ -52,7 +52,7 @@ I’m currently in a fully immersive program at [Turing School of Software and D
 
 
 - 📫  How to reach me: 
-  - <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="20" role="img" aria-label="Email: sarahjs117@gmail.com"><title>Email: sarahjs117@gmail.com</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="180" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="41" height="20" fill="#555"/><rect x="41" width="139" height="20" fill="#007ec6"/><rect width="180" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="215" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="310">Email</text><text x="215" y="140" transform="scale(.1)" fill="#fff" textLength="310">Email</text><text aria-hidden="true" x="1095" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1290">sarahjs117@gmail.com</text><text x="1095" y="140" transform="scale(.1)" fill="#fff" textLength="1290">sarahjs117@gmail.com</text></g><script xmlns="" type="text/javascript" src="chrome-extension://hejbmebodbijjdhflfknehhcgaklhano/../window/testing-library.js"/></svg>
+  - sosgood.dev@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/sarahosgood/)
   - [Portfolio](https://alumni.turing.io/alumni/sarah-osgood)
   
