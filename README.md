@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Sarah Osgood.</h1>
 
-<h2 align="center">Frontend engineer currently residing in Fort Collins, Colorado.</h2>
+<h2 align="center">Software engineer residing in Fort Collins, Colorado.</h2>
 
 <div align="center">
  <a href="https://www.linkedin.com/in/sarahosgood/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"></a>
@@ -10,7 +10,7 @@
  <a href="https://alumni.turing.io/alumni/sarah-osgood"><img src="https://img.shields.io/badge/Turing-000?style=for-the-badge&logo=turing&logoColor=black" alt="turing portfolio"></a>
 </div>
 
-I’m currently in a fully immersive program at [Turing School of Software and Design](https://frontend.turing.io/), slotted to graduate in March 2021.
+<p align="center">I’m currently in a fully immersive program at [Turing School of Software and Design](https://frontend.turing.io/), slotted to graduate in March 2021.</p>
 
 <h2 align="center">Technologies:</h2>
 
