@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! I'm Sarah Osgood.</h2>
+<h1 align="center">Hi there! I'm Sarah Osgood.</h1>
 
 <h2 align="center">Frontend engineer currently residing in Fort Collins, Colorado.</h2>
 
