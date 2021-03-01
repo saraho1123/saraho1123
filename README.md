@@ -10,7 +10,9 @@
  <a href="https://alumni.turing.io/alumni/sarah-osgood"><img src="https://img.shields.io/badge/Turing-000?style=for-the-badge&logo=turing&logoColor=black" alt="turing portfolio"></a>
 </div>
 
-<p align="center">I’m currently in a fully immersive program at [Turing School of Software and Design](https://frontend.turing.io/), slotted to graduate in March 2021.</p>
+<p align="center">
+ I’m currently in a fully immersive program at <a href="https://frontend.turing.io/">Turing School of Software and Design</a>, slotted to graduate in March 2021.
+</p>
 
 <h2 align="center">Technologies:</h2>
 
