@@ -1,8 +1,14 @@
-## Hi there! I'm Sarah Osgood.
+<h2 align="center">Hi there! I'm Sarah Osgood.</h2>
 
-### Frontend engineer currently residing in Fort Collins, Colorado.
+<h2 align="center">Frontend engineer currently residing in Fort Collins, Colorado.</h2>
 
-😎 [![linkedin-shield](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=1C5D99)](https://www.linkedin.com/in/sarahosgood/)
+<div align="center">
+ <a href="https://www.linkedin.com/in/sarahosgood/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"></a>
+ 
+ <a href="mailto:sosgood.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+ 
+ <a href="https://alumni.turing.io/alumni/sarah-osgood"><img src="https://img.shields.io/badge/Turing-000?style=for-the-badge&logo=turing&logoColor=black" alt="turing portfolio"></a>
+</div>
 
 I’m currently in a fully immersive program at [Turing School of Software and Design](https://frontend.turing.io/), slotted to graduate in March 2021.
 
@@ -50,11 +56,7 @@ I’m currently in a fully immersive program at [Turing School of Software and D
   - Road trips 🏞
   - Travel (hopefully again after we get through COVID!) 🗺
 
-
-- 📫  How to reach me: 
-  - sosgood.dev@gmail.com
-  - [LinkedIn](https://www.linkedin.com/in/sarahosgood/)
-  - [Portfolio](https://alumni.turing.io/alumni/sarah-osgood)
+ 
   
 - 💬  Ask me about:
   - Specific applications I've made at Turing.
