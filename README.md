@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Sarah Osgood.</h1>
 
-<h2 align="center">Software engineer residing in Fort Collins, Colorado.</h2>
+<h2 align="center">Associate Consultant Software Engineer at Slalom.</h2>
 
 <div align="center">
  <a href="https://www.linkedin.com/in/sarahosgood/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"></a>
