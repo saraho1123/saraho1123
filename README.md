@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
- I’m currently in a fully immersive program at <a href="https://frontend.turing.io/">Turing School of Software and Design</a>, slotted to graduate in March 2021.
+ I graduated from <a href="https://frontend.turing.io/">Turing School of Software and Design</a> in March 2021.
 </p>
 
 <h2 align="center">Technologies:</h2>
